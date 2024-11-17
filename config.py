@@ -1,0 +1,7 @@
+SECRET_KEY = "secret"
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 30
+
+DB_USER = "polina"
+DB_PASS = "qwerty123"
+DB_NAME = "mydb"
